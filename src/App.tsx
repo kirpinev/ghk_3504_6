@@ -109,7 +109,7 @@ export const App = () => {
             view="small"
             weight="semibold"
           >
-            Скидка 10%
+            Кэшбек
           </Typography.TitleResponsive>
         </div>
         <Typography.Text tag="p" view="primary-medium" color="secondary">
